@@ -9,7 +9,7 @@ from scipy import stats as st
 import random
 import statistics as stat
 import pandas as pd
-import seaborn as sns
+import seaborn as sns 
 import matplotlib 
 import random
 
@@ -3500,7 +3500,6 @@ button7.grid(row = 25, column = 9 )
 win.mainloop()
 
 
-nm
 
 
 
